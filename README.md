@@ -83,7 +83,7 @@
       <a href="https://github.com/AlexisCruzM/proyecto-1" style="color: #851919; text-decoration: none; font-weight: bold;">Ver repositorio →</a>
     </div>
     
-    <div style="background-color: #151515; border: 1px solid #303030; border-radius: 6px; padding: 16px; width: 350px; margin: 10px;">
+  <div style="background-color: #151515; border: 1px solid #303030; border-radius: 6px; padding: 16px; width: 350px; margin: 10px;">
       <h3 style="color: #851919;">🚀 Proyecto 2</h3>
       <p style="color: #CCCCCC;">Descripción breve del proyecto. Puedes agregar detalles sobre la tecnología utilizada y sus características principales.</p>
       <div>
