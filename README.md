@@ -16,7 +16,7 @@
   
   ## 🔗 Conéctate conmigo
   
-  <a href="https://www.linkedin.com/in/alexis-cruz-102653348="_blank">
+  <a href="https://www.linkedin.com/in/alexis-cruz-102653348/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/tu-usuario" target="_blank">
