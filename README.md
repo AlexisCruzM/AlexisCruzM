@@ -65,35 +65,16 @@
     </div>
   </div>
   
-  ## 🚀 Proyectos Destacados
+   ## 🚀 Proyectos Destacados
   
-  <!-- Asegúrate de que estos repositorios existan en tu cuenta -->
-  <p>Al ver el error "User Repository Not found", es posible que aún no tengas repositorios públicos. Si tienes proyectos, asegúrate de que los nombres sean correctos:</p>
+  <a href="https://github.com/AlexisCruzM/proyecto-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexisCruzM&repo=proyecto-1&bg_color=151515&title_color=851919&text_color=CCCCCC&icon_color=851919&border_color=303030" alt="Proyecto 1" />
+  </a>
+  <a href="https://github.com/AlexisCruzM/proyecto-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexisCruzM&repo=proyecto-2&bg_color=151515&title_color=851919&text_color=CCCCCC&icon_color=851919&border_color=303030" alt="Proyecto 2" />
+  </a>
   
-  <!-- Opción alternativa de mostrar proyectos en forma de tarjetas sin depender de github-readme-stats -->
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-    <div style="background-color: #151515; border: 1px solid #303030; border-radius: 6px; padding: 16px; width: 350px; margin: 10px;">
-      <h3 style="color: #851919;">✨ Proyecto 1</h3>
-      <p style="color: #CCCCCC;">Descripción breve del proyecto. Puedes agregar detalles sobre la tecnología utilizada y sus características principales.</p>
-      <div>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-      </div>
-      <a href="https://github.com/AlexisCruzM/proyecto-1" style="color: #851919; text-decoration: none; font-weight: bold;">Ver repositorio →</a>
-    </div>
-    
-  <div style="background-color: #151515; border: 1px solid #303030; border-radius: 6px; padding: 16px; width: 350px; margin: 10px;">
-      <h3 style="color: #851919;">🚀 Proyecto 2</h3>
-      <p style="color: #CCCCCC;">Descripción breve del proyecto. Puedes agregar detalles sobre la tecnología utilizada y sus características principales.</p>
-      <div>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-      </div>
-      <a href="https://github.com/AlexisCruzM/proyecto-2" style="color: #851919; text-decoration: none; font-weight: bold;">Ver repositorio →</a>
-    </div>
-  </div>
-  
+
   ## 📈 Actividad
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexisCruzM&bg_color=151515&color=CCCCCC&line=851919&point=CCCCCC&area_color=851919&area=true&hide_border=false&border_color=303030" alt="Gráfico de Actividad" />
