@@ -49,12 +49,19 @@ Apasionado desarrollador con experiencia en crear soluciones web innovadoras. Me
 
 ## 📊 Estadísticas de GitHub
 
+<!-- GitHub Stats con colores personalizados -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexisCruzM&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexisCruzM&show_icons=true&bg_color=0D1117&title_color=FF0000&text_color=CCCCCC&icon_color=FF0000&border_color=FF0000" alt="GitHub Stats" />
 </div>
 
+<!-- GitHub Streak con colores personalizados -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexisCruzM&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexisCruzM&background=0D1117&border=FF0000&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakNum=CCCCCC&sideNums=CCCCCC&currStreakLabel=FF0000&sideLabels=FF0000&dates=777777" alt="GitHub Streak" />
+</div>
+
+<!-- Gráfico de actividad con colores personalizados -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexisCruzM&bg_color=0D1117&color=CCCCCC&line=FF0000&point=FF0000&area_color=FF0000&area=true" alt="Gráfico de Actividad" />
 </div>
 
 ## 🚀 Proyectos Destacados
