@@ -64,7 +64,8 @@
       <img src="https://img.shields.io/badge/JavaScript-7.43%25-F7DF1E?style=for-the-badge" alt="JavaScript" />
     </div>
   </div>
-  
+
+  <!-- 
    ## 🚀 Proyectos Destacados
   
   <a href="https://github.com/AlexisCruzM/proyecto-1">
@@ -73,7 +74,7 @@
   <a href="https://github.com/AlexisCruzM/proyecto-2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexisCruzM&repo=proyecto-2&bg_color=151515&title_color=851919&text_color=CCCCCC&icon_color=851919&border_color=303030" alt="Proyecto 2" />
   </a>
-  
+  -->
 
   ## 📈 Actividad
   
