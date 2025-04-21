@@ -1,20 +1,20 @@
-<!-- Banner de perfil con color más sutil -->
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=851919&text=Hi,%20I%20am%20Alexis%20💻&fontColor=FFFFFF&animation=scaleIn" alt="Banner de perfil" width="100%" />
 </div>
 
 <div align="center">
   
-  ## 👨🏻‍💻 Sobre mí
+  ## 👨🏻‍💻 about me
   
-  Apasionado desarrollador con experiencia en crear soluciones web innovadoras. Me especializo en desarrollo full stack y disfruto transformando ideas en aplicaciones funcionales y atractivas.
+  Passionate developer with experience creating innovative web solutions. I specialize in full-stack development and enjoy transforming ideas into functional and engaging applications.
   
   <!-- Contador de visitas -->
   <p> 
     <img src="https://komarev.com/ghpvc/?username=AlexisCruzM&label=Visitas&color=851919&style=flat" alt="contador de visitas" />
   </p>
   
-  ## 🔗 Conéctate conmigo
+  ## 🔗 Connect with me
   
   <a href="https://www.linkedin.com/in/alexis-cruz-102653348/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -33,7 +33,7 @@
   </a>
   
   
-  ## 💻 Habilidades Técnicas
+  ## 💻 Technical Skills
   
   <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -46,13 +46,13 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </p>
   
-  ## 📊 Estadísticas de GitHub
+  ## 📊 GitHub Statistics
   
   <img src="https://github-readme-stats.vercel.app/api?username=AlexisCruzM&show_icons=true&bg_color=151515&title_color=851919&text_color=CCCCCC&icon_color=851919&border_color=303030" alt="GitHub Stats" />
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexisCruzM&background=151515&border=303030&stroke=303030&ring=851919&fire=851919&currStreakNum=CCCCCC&sideNums=CCCCCC&currStreakLabel=851919&sideLabels=851919&dates=777777" alt="GitHub Streak" />
   
-  ## 📈 Lenguajes más utilizados
+  ## 📈 Most used languages
   
   <!-- Versión fija y más pequeña de los lenguajes más usados -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexisCruzM&layout=compact&bg_color=151515&title_color=851919&text_color=CCCCCC&border_color=303030&langs_count=6" alt="Lenguajes más usados" />
@@ -77,7 +77,7 @@
   </a>
   -->
 
-  ## 📈 Actividad
+  ## 📈 Activity
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexisCruzM&bg_color=151515&color=CCCCCC&line=851919&point=CCCCCC&area_color=851919&area=true&hide_border=false&border_color=303030" alt="Gráfico de Actividad" />
   
