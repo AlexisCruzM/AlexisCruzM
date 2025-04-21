@@ -1,4 +1,4 @@
-https://capsule-render.vercel.app/api?type=waving&height=300&color=red&text=Alexis%20Cruz&fontColor=FFF&animation=scaleIn
+![Alexis Cruz](https://capsule-render.vercel.app/api?type=waving&height=300&color=red&text=Alexis%20Cruz&fontColor=FFF&animation=scaleIn)
 
 # Hi, I am Alexis 👨🏻‍💻
 
