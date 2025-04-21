@@ -50,28 +50,28 @@ Apasionado desarrollador con experiencia en crear soluciones web innovadoras. Me
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO-DE-GITHUB&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexisCruzM&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU-USUARIO-DE-GITHUB&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexisCruzM&theme=radical" alt="GitHub Streak" />
 </div>
 
 ## 🚀 Proyectos Destacados
 
 <div align="center">
   <a href="https://github.com/TU-USUARIO/proyecto-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU-USUARIO-DE-GITHUB&repo=proyecto-1&theme=radical" alt="Proyecto 1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexisCruzM&repo=proyecto-1&theme=radical" alt="Proyecto 1" />
   </a>
   <a href="https://github.com/TU-USUARIO/proyecto-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU-USUARIO-DE-GITHUB&repo=proyecto-2&theme=radical" alt="Proyecto 2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexisCruzM&repo=proyecto-2&theme=radical" alt="Proyecto 2" />
   </a>
 </div>
 
 ## 📈 Actividad
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU-USUARIO-DE-GITHUB&theme=react-dark" alt="Gráfico de Actividad" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexisCruzM&theme=react-dark" alt="Gráfico de Actividad" />
 </div>
 
 <!-- Footer -->
